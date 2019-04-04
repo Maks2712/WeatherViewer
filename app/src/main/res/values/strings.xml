@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherViewer</string>
+    <string name="cityChangeTextView">Change city</string>
+    <string name="my_location">My location</string>
+    <string name="pressure">mmHg</string>
+    <string name="temperatureC">°C</string>
+    <string name="windSpeed">m/s</string>
+    <string name="wind1">N</string>
+    <string name="wind2">NE</string>
+    <string name="wind3">E</string>
+    <string name="wind4">SE</string>
+    <string name="wind5">S</string>
+    <string name="wind6">SW</string>
+    <string name="wind7">W</string>
+    <string name="wind8">NW</string>
+</resources>
